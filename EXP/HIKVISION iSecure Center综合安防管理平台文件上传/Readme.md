@@ -33,6 +33,8 @@ hhh
 响应包如下：
 
 ![image-20240613201208922](.\image-20240613201208922.png)
+![image](https://github.com/hardog123/poc-exp/assets/170905460/add33246-0558-43f8-9fb2-68aa120c2a5c)
+
 
 拼接路径访问：
 
