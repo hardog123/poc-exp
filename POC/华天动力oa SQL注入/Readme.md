@@ -32,4 +32,4 @@ Cache-Control: max-age=0
 
 响应包显示如下
 
-![image-20240613202648514](D:\py\POC\华天动力oa SQL注入\image-20240613202648514.png)
+![image](https://github.com/hardog123/poc-exp/assets/170905460/60587f5e-ff2d-42ca-8cc1-eb61a09f1551)
