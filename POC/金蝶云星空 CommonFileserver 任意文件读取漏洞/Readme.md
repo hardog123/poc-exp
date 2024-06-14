@@ -49,4 +49,4 @@ MAPIXVER=1.0.0.1
 OLEMessaging=1
 ```
 
-![image-20240613214127436](D:\py\POC\金蝶云星空 CommonFileserver 任意文件读取漏洞\image-20240613214127436.png)
+![image](https://github.com/hardog123/poc-exp/assets/170905460/b3527ba9-0a3b-42da-b813-083ed94eb58f)
