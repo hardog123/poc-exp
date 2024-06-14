@@ -31,4 +31,6 @@ Connection:close
 bsh.script=print("Hardog")
 ```
 
-![image-20240614131356293](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20240614131356293.png)
+网站内容显示如下：
+![image](https://github.com/hardog123/poc-exp/assets/170905460/e732b3d5-2141-4796-9f34-319959a56ad6)
+
