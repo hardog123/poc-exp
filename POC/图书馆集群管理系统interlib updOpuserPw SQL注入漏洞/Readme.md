@@ -25,4 +25,4 @@ Upgrade-Insecure-Requests: 1
 
 SQL报错成功执行取模运算函数
 
-![image-20240615211111573](D:\py\POC\图书馆集群管理系统interlib updOpuserPw SQL注入漏洞\image-20240615211111573.png)
+![image](https://github.com/hardog123/poc-exp/assets/170905460/b745d643-9437-42d3-9963-953b5e0561f4)
