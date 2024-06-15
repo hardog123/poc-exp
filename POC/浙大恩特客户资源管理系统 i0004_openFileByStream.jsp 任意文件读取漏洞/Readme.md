@@ -25,4 +25,4 @@ Connection:close
 Cache-Control:max-age=0
 ```
 
-![image-20240615181702747](D:\py\POC\浙大恩特客户资源管理系统 i0004_openFileByStream.jsp 任意文件读取漏洞\image-20240615181702747.png)
+![image](https://github.com/hardog123/poc-exp/assets/170905460/3547e51c-e6e3-4911-866c-40109c2ad039)
