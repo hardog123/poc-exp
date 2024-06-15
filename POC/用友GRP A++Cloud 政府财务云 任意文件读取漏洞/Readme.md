@@ -29,4 +29,4 @@ Connection: close
 
 ```
 
-![image-20240615174847474](D:\py\POC\用友GRP A++Cloud 政府财务云 任意文件读取漏洞\image-20240615174847474.png)
+![image](https://github.com/hardog123/poc-exp/assets/170905460/c568e13e-8a01-4c07-acd0-ad0e543136d5)
