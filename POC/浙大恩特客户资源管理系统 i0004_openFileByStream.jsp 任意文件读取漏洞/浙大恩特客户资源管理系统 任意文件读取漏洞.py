@@ -1,6 +1,8 @@
 import sys,requests,time,argparse
 from multiprocessing.dummy import Pool
 requests.packages.urllib3.disable_warnings()
+GREEN = '\033[92m'  # 输出颜色
+RESET = '\033[0m'
 
 # 定义程序的横幅
 def banner():
@@ -61,7 +63,7 @@ def poc(target):
         res = requests.get(url=url,headers=headers,timeout=5,verify=False)
         
         if res.status_code == 200 and "db" in res.text:
-            print(f"[+]该网站存在任意文件读取漏洞，url为{target}")
+            print(f"{GREEN}[+]该网站存在任意文件读取漏洞，url为{target}\n{RESET}")
             with open("result.txt","a",encoding="utf-8") as fp:
                 fp.write(target+'\n')
         else:
