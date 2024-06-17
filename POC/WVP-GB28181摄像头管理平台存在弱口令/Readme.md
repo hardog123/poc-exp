@@ -47,4 +47,4 @@ Connection: close
 
 响应码为200，响应包显示如下：
 
-![image-20240617202409584](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20240617202409584.png)
+![image](https://github.com/hardog123/poc-exp/assets/170905460/e327ff6e-e98d-4fa1-9a8d-c41654698466)
