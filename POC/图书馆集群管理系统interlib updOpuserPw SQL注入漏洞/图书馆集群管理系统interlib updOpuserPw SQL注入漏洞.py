@@ -63,11 +63,11 @@ def poc(target):
         res = requests.post(url=url,headers=headers,timeout=5,verify=False)
         
         if res.status_code == 200 and "message" in res.text:
-            print(f"{GREEN}[+]该网站存在SQS注入漏洞，url为{target}\n{RESET}")
+            print(f"{GREEN}[+]该网站存在SQL注入漏洞，url为{target}\n{RESET}")
             with open("result.txt","a",encoding="utf-8") as fp:
                 fp.write(target+'\n')
         else:
-            print(f"[-]该网站不存在SQS注入漏洞")
+            print(f"[-]该网站不存在SQL注入漏洞")
 
     except Exception as e:
         print(f"[*]该网站无法访问")
