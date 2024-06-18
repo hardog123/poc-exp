@@ -27,4 +27,4 @@ Connection: close
 
 ```
 
-![image-20240618192923225](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20240618192923225.png)
+![image](https://github.com/hardog123/poc-exp/assets/170905460/6585a04c-7a56-4a2f-a7cd-1a0604b4b9c5)
