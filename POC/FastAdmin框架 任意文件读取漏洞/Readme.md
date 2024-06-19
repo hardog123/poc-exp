@@ -23,4 +23,4 @@ Connection: keep-alive
 
 ```
 
-![image-20240619225023548](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20240619225023548.png)
+![image](https://github.com/hardog123/poc-exp/assets/170905460/66994621-3e8c-49f0-bf7c-0b34ce486419)
