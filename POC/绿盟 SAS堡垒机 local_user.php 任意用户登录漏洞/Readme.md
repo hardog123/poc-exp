@@ -1,3 +1,5 @@
+绿盟 SAS堡垒机 local_user.php 任意用户登录漏洞
+1.漏洞描述
 绿盟堡垒机存在任意用户登录漏洞，攻击者通过漏洞包含 www/local_user.php 实现任意⽤户登录
 
 ![img](https://cdn.nlark.com/yuque/0/2024/png/42783549/1719487092994-e4fea1fd-973a-430a-adab-aef472f1901a.png)
