@@ -48,7 +48,7 @@ def poc(target):
 def main():
     banner()
     #处理命令行参数
-    parser = argparse.ArgumentParser(description='金蝶云星空 CommonFileserver 任意文件读取漏洞')
+    parser = argparse.ArgumentParser(description='用友GRP A++Cloud 政府财务云 任意文件读取漏洞')
     #添加两个参数
     parser.add_argument('-u','--url',dest='url',type=str,help='Please input link')
     parser.add_argument('-f','--file',dest='file',type=str,help='File Path')
