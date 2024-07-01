@@ -44,7 +44,7 @@ def poc(target):
 def main():
     banner()
     #处理命令行参数
-    parser = argparse.ArgumentParser(description='用友时空KSOA PayBill SQL注入漏洞')
+    parser = argparse.ArgumentParser(description='华天动力oa SQL注入')
     #添加两个参数
     parser.add_argument('-u','--url',dest='url',type=str,help='urllink')
     parser.add_argument('-f','--file',dest='file',type=str,help='filename.txt(Absolute Path)')
