@@ -21,7 +21,7 @@ GET /item/list?draw=1&order%5B0%5D%5Bcolumn%5D=1&order%5B0%5D%5Bdir%5D=desc)a+un
 ### 4.py脚本使用
 
 ```
-python3 360 脚本文件名 -u "http://127.0.0.1"  # 测试单个url
-python3 360 脚本文件名 -f url.txt             # 测试多个url
+python3 脚本文件名 -u "http://127.0.0.1"  # 测试单个url
+python3 脚本文件名 -f url.txt             # 测试多个url
 ```
 
