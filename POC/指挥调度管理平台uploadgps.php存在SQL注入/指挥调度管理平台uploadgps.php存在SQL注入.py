@@ -63,8 +63,6 @@ def poc(target):
     
     try:
         res = requests.post(url=url,headers=headers,data=data,verify=False,timeout=15)
-        # start_time = time.time()
-        # elapsed_time = time.time() - start_time
 
         if res.status_code == 200 and "successed" in res.text :
             print(f"[+]{GREEN}该url存在漏洞{target}\n{RESET}")
