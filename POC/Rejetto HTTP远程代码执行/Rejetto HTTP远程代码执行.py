@@ -24,7 +24,7 @@ def banner():
     print(banner)
 def main():
     banner()
-    parser = argparse.ArgumentParser(description='QLBSQL! ')
+    parser = argparse.ArgumentParser(description='Rejetto HTTP 远程代码执行')
     parser.add_argument('-u','--url',dest='url',type=str,help='input link')
     parser.add_argument('-f','--file',dest='file',type=str,help='file path')
     args = parser.parse_args()
