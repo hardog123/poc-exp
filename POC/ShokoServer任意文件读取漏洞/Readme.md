@@ -31,6 +31,6 @@ Connection: close
 ### 5.py脚本
 
 ```plain
-python3 360 脚本文件名 -u "http://127.0.0.1"  # 测试单个url
-python3 360 脚本文件名 -f url.txt             # 测试多个url
+python3 脚本文件名 -u "http://127.0.0.1"  # 测试单个url
+python3 脚本文件名 -f url.txt             # 测试多个url
 ```
